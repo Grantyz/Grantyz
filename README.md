@@ -1,8 +1,3 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">I am Soni, a software developer dedicated to creating user-friendly and enjoyable applications.</div>  
   
 
