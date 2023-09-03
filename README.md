@@ -81,10 +81,6 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31fue26cnnomailrv3hmxjbrn6dq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true" /></div>  
-
-<br/>  
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Wespera&&style=flat-square" align="center" />
 </div>  
