@@ -1,7 +1,7 @@
-### <div align="center">I am Soni, a software developer dedicated to creating user-friendly and enjoyable applications.</div>  
+### <div align="center">I am Wespera, a software developer dedicated to creating user-friendly and enjoyable applications.</div>  
   
 
-- 🔭 I’m currently working on [EasyManager-Linux](https://github.com/SoniTheGreat/EasyManager-Linux)  
+- 🔭 I’m currently working on [EasyManager-Linux](https://github.com/Wespera/EasyManager-Linux)  
   
 
 - 🌱 I’m currently learning C++  
@@ -56,7 +56,7 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/SoniTheGreat" target="_blank">
+<a href="https://github.com/Wespera" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://dev.to/SoniTheGreat" target="_blank">
@@ -69,7 +69,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=SoniTheGreat&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Wespera&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
@@ -86,14 +86,14 @@ If things goes well, this section should automatically be replaced by a list of 
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=SoniTheGreat&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=Wespera&&style=flat-square" align="center" />
 </div>  
   
 
 <br/>  
 
 <div align="center">
-            <a href="https://www.buymeacoffee.com/sonithegreat" target="_blank" style="display: inline-block;">
+            <a href="https://www.buymeacoffee.com/wespera" target="_blank" style="display: inline-block;">
                 <img
                     src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
                     align="center"
