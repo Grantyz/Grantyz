@@ -1,7 +1,7 @@
 ### <div align="center">I am Wespera, a software developer dedicated to creating user-friendly and enjoyable applications.</div>  
   
 
-- 🔭 I’m currently working on [EasyManager-Linux](https://github.com/Wespera/EasyManager-Linux)  
+- 🔭 I’m currently working on [ArchManager](https://github.com/Wespera/ArchManager)  
   
 
 - 🌱 I’m currently learning C++  
