@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on [ArchManager](https://github.com/Wespera/ArchManager)  
   
 
-- 🌱 I’m currently learning C++  
+- 🌱 I’m learning C++  
   
 
 - ❓ Feel free to ask me anything  
