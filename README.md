@@ -1,1 +1,2 @@
 ### <div align="center">I am Grant, a software developer dedicated to creating user-friendly and enjoyable applications.</div>  
+<p align="center">There is not much repositories here for now but that will change.</p>
